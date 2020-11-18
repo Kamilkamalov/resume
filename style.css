@@ -1,0 +1,43 @@
+body {
+    background-color: whitesmoke;
+    font-family: 'Play', sans-serif;
+}
+.me {
+    float: left;
+}
+.res {
+    text-align: center;
+}
+.text {
+    margin-left: 21vw;
+    font-size: x-large;
+}
+.skills {
+    margin-left: 21vw;
+    font-size: x-large;
+}
+.portfo {
+    float: left;
+    font-size: larger;
+}
+.spisok1 {
+    font-size: xx-large;
+    margin-left: 5px;
+}
+.spisok {
+    font-size: xx-large;
+}
+.foote {
+    font-size: larger;
+    margin-top: 22vw;
+    text-align: center;
+}
+a:link {
+    color: goldenrod;
+}
+a:visited {
+    color: chocolate;
+}
+a:hover {
+    color: darkorange;
+}
